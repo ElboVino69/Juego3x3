@@ -1,0 +1,14 @@
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\bin\Debug\netcoreapp3.1\Juego_Aitana.exe
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\bin\Debug\netcoreapp3.1\Juego_Aitana.deps.json
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\bin\Debug\netcoreapp3.1\Juego_Aitana.runtimeconfig.json
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\bin\Debug\netcoreapp3.1\Juego_Aitana.runtimeconfig.dev.json
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\bin\Debug\netcoreapp3.1\Juego_Aitana.dll
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\bin\Debug\netcoreapp3.1\Juego_Aitana.pdb
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\obj\Debug\netcoreapp3.1\Juego_Aitana.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\obj\Debug\netcoreapp3.1\Juego_Aitana.AssemblyInfo.cs
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\obj\Debug\netcoreapp3.1\Juego_Aitana.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\obj\Debug\netcoreapp3.1\Juego_Aitana.dll
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\obj\Debug\netcoreapp3.1\Juego_Aitana.pdb
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\obj\Debug\netcoreapp3.1\Juego_Aitana.genruntimeconfig.cache
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\obj\Debug\netcoreapp3.1\Juego_Aitana.csproj.AssemblyReference.cache
+C:\Users\josep\Desktop\Aitana\JUEGO TABLERO 3X3\Juego_Aitana\obj\Debug\netcoreapp3.1\Juego_Aitana.GeneratedMSBuildEditorConfig.editorconfig
